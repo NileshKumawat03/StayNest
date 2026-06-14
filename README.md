@@ -10,7 +10,7 @@ StayHub is a full-stack web application that allows users to discover, create, a
 ---
 ## 💻 GitHub Repository
 
-👉 [https://github.com/iammadhu123/Project-StayHub.git](https://github.com/iammadhu123/Project-StayHub.git)
+👉 [https://github.com/NileshKumawat03/StayNest.git]
 
 ---
 ## 🚀 Features
